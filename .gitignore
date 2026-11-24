@@ -1,0 +1,3 @@
+# Exclude large raw 3D source files
+ar47_raw.glb
+*.tcraft
